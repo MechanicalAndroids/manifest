@@ -21,7 +21,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="AOSPA-L/android_build" >
+  <project path="build" name="android_build" remote="MA" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
