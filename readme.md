@@ -46,4 +46,4 @@ $ repo sync
 
 #### Build ####
 
-./build-rom.sh <device-name>
+./build-rom.sh device-name
