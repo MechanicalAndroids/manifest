@@ -12,6 +12,9 @@
 
   <remote  name="blobs"
            fetch="https://github.com/TheMuppets" />
+           
+  <remote  name="MA"
+           fetch="https://github.com/MechanicalAndroids" />
 
   <default revision="refs/heads/lollipop-mr1"
            remote="github"
