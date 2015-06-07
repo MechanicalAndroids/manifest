@@ -397,7 +397,7 @@
   <project path="kernel/motorola/msm8226" name="android_kernel_motorola_msm8226" remote="MA" revision="lollipop" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="packages/apps/AudioFX" name="AOSPA-L/android_packages_apps_AudioFX" />
-  <project path="packages/apps/V4A" name="MechanicalAndroids/viper4android_fx" remote="MA" revision="lollipop" />
+  <project path="packages/apps/V4A" name="MechanicalAndroids/viper4android_fx" revision="lollipop" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" />
   <project path="packages/apps/Bluetooth" name="AOSPA-L/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="AOSPA-L/android_packages_apps_BluetoothExt" />
