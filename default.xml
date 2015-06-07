@@ -450,8 +450,6 @@
   <project path="packages/providers/ThemesProvider" name="AOSPA-L/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" groups="pdk-cw-fs" remote="aosp" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" remote="aosp" />
-  <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" remote="aosp" />
-  <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" remote="aosp" />
   <project path="packages/services/Mms" name="AOSPA-L/android_packages_services_Mms" />
   <project path="packages/services/Telecomm" name="AOSPA-L/android_packages_services_Telecomm" />
   <project path="packages/services/Telephony" name="AOSPA-L/android_packages_services_Telephony" />
