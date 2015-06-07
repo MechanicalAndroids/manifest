@@ -397,7 +397,7 @@
   <project path="kernel/motorola/msm8226" name="android_kernel_motorola_msm8226" remote="MA" revision="lollipop" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="packages/apps/AudioFX" name="AOSPA-L/android_packages_apps_AudioFX" />
-  <project path="packages/apps/V4A" name="MechanicalAndroids/viper4android_fx" remote="master" />
+  <project path="packages/apps/V4A" name="MechanicalAndroids/viper4android_fx" remote="MA" revision="lollipop" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" />
   <project path="packages/apps/Bluetooth" name="AOSPA-L/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="AOSPA-L/android_packages_apps_BluetoothExt" />
@@ -425,7 +425,6 @@
   <project path="packages/apps/Nfc" name="AOSPA-L/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" />
-  <project path="packages/apps/ParanoidOTA" name="AOSPA-L/android_packages_apps_ParanoidOTA" />
   <project path="packages/apps/PhoneCommon" name="AOSPA-L/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" />
