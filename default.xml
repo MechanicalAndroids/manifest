@@ -420,6 +420,8 @@
   <project path="packages/apps/Nfc" name="AOSPA-L/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" />
+  <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" />
+  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" />
   <project path="packages/apps/PhoneCommon" name="AOSPA-L/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" />
